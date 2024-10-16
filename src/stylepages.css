@@ -16,6 +16,14 @@ body::before {
   backdrop-filter: blurr (0.5px);
 }
 
+::-webkit-scrollbar {
+  width: 08px;  
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: #ffaef8;   
+}
+
 main {
   display: flex;
   justify-content: center;
