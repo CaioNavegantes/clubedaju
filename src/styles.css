@@ -24,6 +24,8 @@ body {
 body * {
   font-family: "Inter", sans-serif;
   color: var(--text-color); 
+  font-weight: 500;
+  overflow: hidden;
 }
 
 #cta {
